@@ -26,7 +26,7 @@ SAP SuccessFactors expert transitioning into _Data Engineering_ & _Data Science_
 
 🤿🫧 **Beyond the Code**
 
-When I'm not configuring or working with data, I'm usually doing something completely different. I'm a newly certified Open Water scuba diver, with dives down to _21 metres_, and I'm also passionate about music — I write songs, sing and play guitar 🎸. I have also been introduced to the magical world of martial arts having practiced Karate for several years 🥊 and the basics of Kung Fu 🐼.
+When I'm not configuring or working with data, I'm usually doing something completely different. I'm a newly certified Open Water scuba diver, with dives down to <ins>_21 metres_</ins>, and I'm also passionate about music — I write songs, sing and play guitar 🎸. I have also been introduced to the magical world of martial arts having practiced Karate for several years 🥊 and the basics of Kung Fu 🐼.
 
 ---
 > Uncertainty is an uncomfortable position. But certainty is an absurd one.
