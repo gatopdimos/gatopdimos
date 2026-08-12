@@ -17,9 +17,9 @@ SAP SuccessFactors expert transitioning into _Data Engineering_ & _Data Science_
 When I'm not configuring or working with data, I'm usually doing something completely different. I'm a newly certified Open Water scuba diver, with dives down to _21 metres_, and I'm also passionate about music — I write songs, sing and play guitar 🎸. I have also been introduced to the magical world of martial arts having practiced Karate for several years 🥊 and the basics of Kung Fu 🐼.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/01/how-to-become-a-data-engineer.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/01/how-to-become-a-data-engineer.jpg">
+ <img alt="Data is Fun" src="https://onlinedegrees.sandiego.edu/wp-content/uploads/2022/01/how-to-become-a-data-engineer.jpg">
 </picture>
 
 <!--
