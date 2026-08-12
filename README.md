@@ -4,11 +4,13 @@
  <img alt="Data is Fun" src="https://img.magnific.com/free-photo/glasses-lie-laptop-reflecting-light-from-screen-dark_169016-52267.jpg?semt=ais_hybrid&w=740&q=80">
 </picture>
 
+# About Me
 
 **SAP SuccessFactors and Oracle HCM Consultant | Aspiring Data Engineer | SQL & Data Engineer**
 
 SAP SuccessFactors expert transitioning into _Data Engineering_ & _Data Science_. I have a strong background in HR technology/analytics and _SQL_, and I'm currently expanding my skills in _Python, PySpark, Azure, Docker_ and _Apache Airflow_. I enjoy building data pipelines, solving data problems and continuously learning new technologies.
 
+## Skills
 
 <details open>
 <summary>Data & Programming</summary>
