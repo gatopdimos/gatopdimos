@@ -32,7 +32,7 @@ When I'm not configuring or working with data, I'm usually doing something compl
 
 ---
 > Uncertainty is an uncomfortable position. But certainty is an absurd one.
-- Voltaire
+-Voltaire
 <!--
 **gatopdimos/gatopdimos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
