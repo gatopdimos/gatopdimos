@@ -10,7 +10,7 @@
 
 SAP SuccessFactors expert transitioning into _Data Engineering_ & _Data Science_. I have a strong background in HR technology/analytics and _SQL_, and I'm currently expanding my skills in _Python, PySpark, Azure, Docker_ and _Apache Airflow_. I enjoy building data pipelines, solving data problems and continuously learning new technologies.
 
-_Interested to learn more?_ Clik [here] (https://www.linkedin.com/in/dimosthenis-gatopoulos-b7bb82145/?skipRedirect=true)
+_Interested to learn more?_ Clik [here](https://www.linkedin.com/in/dimosthenis-gatopoulos-b7bb82145/?skipRedirect=true)
 
 ## Skills
 
